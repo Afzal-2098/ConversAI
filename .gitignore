@@ -1,0 +1,55 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the venv_chatbot virtual environment
+venv_chatbot/
+
+# Ignore local development settings
+.env
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore package files
+*.egg-info/
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*.bak
+
+# Ignore temporary files
+*.tmp
+
+# Ignore database files
+*.db
+
+# Ignore cache files
+*.cache
+
+# Ignore generated documentation
+docs/
+
+# Ignore compiled binaries
+bin/
+
+# Ignore configuration files
+*.config
+
+# Ignore generated files
+*.generated
+
+# Ignore test coverage reports
+.coverage
+
+# Ignore node_modules directory
+node_modules/
